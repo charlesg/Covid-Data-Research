@@ -1,2 +1,3 @@
 statsmodels
 plotly
+matplotlib

@@ -18,6 +18,8 @@ From https://towardsdatascience.com/analyzing-coronavirus-covid-19-data-using-pa
 The last chart is inspired by work from Aatish Bhatia at:
 https://aatishb.com/covidtrends/
 
+The 'venv' was built with virtualenv as a new project in PyCharm.
+
 ## DeepNote
 
 I took this project and compared various Jupyter platforms.
